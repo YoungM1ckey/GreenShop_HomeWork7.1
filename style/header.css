@@ -45,7 +45,7 @@
 }
 
 .button-login {
-  margin-left: 356px;
+  float: right;
   vertical-align: middle;
   width: 100px;
   height: 35px;
